@@ -3,7 +3,8 @@ Foundations of machine learning (ML) course final project at University of Tehra
 
 This project is about **voice signals analysis for authentication and gender classification**. Our notebook is publicly available [here](https://colab.research.google.com/drive/1Fv3pKzSQ3D0hdatKZLD7zGK9Ar4cm2FD).
 
-### Contributors:
+## Contributors
+
 - Paria Pasehvarz (Phase 1 & 2)
 - Majid Faridfar (Phase 1 & 2)
 - Fateme Mohammadi (Phase 1 & 2)
