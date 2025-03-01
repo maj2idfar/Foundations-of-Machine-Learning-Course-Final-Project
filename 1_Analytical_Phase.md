@@ -2,7 +2,7 @@
 
 ## Team Members
 - Hannaneh Jamali - 810899053
-- Paria Parsehvarz - 810101393
+- Paria Pasehvarz - 810101393
 - Majid Faridfar - 810199569
 - Fateme Mohammadi - 810199489
 
